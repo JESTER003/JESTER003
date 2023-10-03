@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Currently Working On:<br>Enhancing my skills in JavaScript and React.<br>Focusing on web development to build robust applications.<br><br>🤝🏻Looking to Collaborate On:<br>Projects that contribute to my skill development journey.<br>Open to collaborations that challenge and expand my expertise.<br><br>🧾Currently Learning:<br>Mastering React and JavaScript for advanced web development.<br>Proficient in languages like C, Java, and Python.<br><br>Constantly seeking opportunities to learn and grow.<br>Feel free to add this information to your GitHub profile, and best of luck with your projects and collaborations! 😊
+👨‍💻Currently Working On:<br>Enhancing my skills in JavaScript and React.<br>Focusing on web development to build robust applications.<br><br>🤝🏻Looking to Collaborate On:<br>Projects that contribute to my skill development journey.<br>Open to collaborations that challenge and expand my expertise.<br><br>🧾Currently Learning:<br>Mastering React and JavaScript for advanced web development.<br>Proficient in languages like C, Java, and Python.<br><br>Constantly seeking opportunities to learn and grow 😊
 
 
 ## 🌐 Socials:
