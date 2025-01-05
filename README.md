@@ -1,27 +1,99 @@
-# 😎 About Me:
-🚀 On a mission to master the art of full-stack development. <br>🛠️ Currently honing my skills and <br>🧠 deepening my understanding of fundamental concepts.
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to my Playground!
+</h2>
 
+<p align="center" width="100%">
+  <img width="70%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72EF7&random=false&width=600&lines=🚀Passionate+Full-Stack+Developer+on+a+journey+to->;create+impactful+web+applications.;🛠️Learning+frontend+and+backend+technologies.;🧠Committed+to+continuous+learning+and+innovation." alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ENKQzc7K) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kush._03/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kush-patel-00030003k/) 
+<!-- Animated Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jester003&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jester003&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jester003&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <!-- Custom Stats Card with Animation -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jester003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72EF7&icon_color=F72EF7&text_color=FFFFFF" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jester003&theme=radical&hide_border=true&background=0D1117&ring=F72EF7&fire=FF2E2E&currStreakLabel=F72EF7" height="165"/>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jester003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Matrix-style Code Rain Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Tech%20Stack&fontSize=40&fontAlignY=30&animation=twinkling"/>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<!-- Tech Stack with Hover Effects -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,java,css,html,ts,python,vercel,firebase,bootstrap,express,nodejs,mongodb,figma,tailwind,react" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jester003&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Social Media with Hover Animation -->
+<h2 align="center">🌐 Connect with Me</h2>
+<div align="center">
+  <a target="_blank" href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=jester003&icon=10&color=0)](https://visitcount.itsvg.in)
+###
+<hr/>
+<!-- Fun Meme Section with Multiple Memes -->
+<div align="center">
+  <details>
+    <summary>🎭 <b>Click for Top Coding Memes!</b></summary>
+    <div align="center">
+        <!-- Meme 1 -->
+        <details>
+          <summary>🤔 Programming Logic (Click for next meme)</summary>
+          <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+          <!-- Meme 2 -->
+          <details>
+            <summary>😅 Code Reviews (Click for next meme)</summary>
+            <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="300"/>
+            <!-- Meme 3 -->
+            <details>
+              <summary>🤯 Stack Overflow (Click for next meme)</summary>
+              <img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" width="300"/>
+              <!-- Meme 4 -->
+              <details>
+                <summary>🚀 When Code Finally Works (Final meme)</summary>
+                < img src="https://media.giphy.com/media/KEYEpIngcmXlHetDqz/giphy.gif" width="300"/>
+                <h4>Hope these made you laugh! 😊</h4>
+              </details>
+            </details>
+          </details>
+        </details>
+      </details>
+    </div>
+  </details>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Custom Contribution Graph -->
+<h2 align="center">🐍 Contribution Serpentine</h2>
+<div align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /></a>
+</div>
+
+<!-- Fun Facts Ticker -->
+<hr/>
+###
+<details align="center">
+<summary>🎯 <b>Fun Facts about Me</b></summary>
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72EF7&center=true&random=false&width=435&lines=I+debug+with+console.log;Coffee+%3E+Sleep;404+Sleep+Not+Found;Eat+Sleep+Code+Repeat" alt="Fun Facts" />
+</div>
+</details>
+
+<!-- Profile Views Counter with Custom Styling -->
+<h2 align="center">👀 Total Profile Views Including You 😁</h2>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jester003/count.svg" alt="Visitor Count" />
+</div>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
