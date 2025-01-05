@@ -37,7 +37,6 @@
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-###
 <hr/>
 <!-- Fun Meme Section with Multiple Memes -->
 <div align="center">
@@ -78,7 +77,6 @@
 
 <!-- Fun Facts Ticker -->
 <hr/>
-###
 <details align="center">
 <summary>🎯 <b>Fun Facts about Me</b></summary>
 <br>
